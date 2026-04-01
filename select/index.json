@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "When They Turn the Lights On",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2026-04-01T09:03:18.910634Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "When They Turn the Lights On",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/01_When_They_Turn_the_Lights_On_ONE_OK_ROCK.lrc"
+    }
+  ]
+}
