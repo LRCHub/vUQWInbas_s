@@ -1,0 +1,56 @@
+# ONE OK ROCK – When They Turn the Lights On
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.80] I been climbing since I was young
+[00:05.60] Never stopped to look down
+[00:09.96] I lost track of the man I was
+[00:14.73] Took a fall to know how
+[00:26.23] 
+[00:18.46] Selfish I've been
+[00:20.52] Oh, what I wouldn't give
+[00:23.25] To lose it all
+[00:25.25] And find myself
+[00:32.75] 
+[00:27.68] I was broken I was caught up in the moment
+[00:31.27] I know that I was wrong
+[00:33.66] But when they turn the lights on
+[00:36.67] I'll be stronger I can stand a little taller
+[00:40.56] The darkness will be gone
+[00:42.52] When they turn the lights on
+[00:46.21] Lights on tonight
+[00:54.71] 
+[01:07.75] I went swimming with heavy weights
+[01:12.54] I was holding my breath
+[01:17.08] I been drowning in my mistakes
+[01:21.75] In a sea of regrets
+[01:31.25] 
+[01:25.39] Selfish I been
+[01:27.52] Oh, what I wouldn't give
+[01:30.08] To lose it all
+[01:32.03] And find myself
+[01:39.53] 
+[01:34.48] I was broken I was caught up in the moment
+[01:37.95] I know that I was wrong
+[01:40.33] But when they turn the lights on
+[01:43.67] I'll be stronger I can stand a little taller
+[01:47.37] The darkness will be gone
+[01:49.85] When they turn the lights on
+[01:53.26] Lights on tonight
+[02:01.76] 
+[02:01.36] Needed some reflection in my life
+[02:05.95] Never seen a vision quite as bright
+[02:10.66] I just want a second chance to make it better (better) better (better)
+[02:16.12] It's never enough
+[02:24.62] 
+[02:41.29] I was broken I was caught up in the moment
+[02:44.83] I know that I was wrong
+[02:47.05] But when they turn the lights on
+[02:50.74] I'll be stronger I can stand a little taller
+[02:54.08] The darkness will be gone
+[02:56.73] When they turn the lights on
+[03:00.12] Lights on
+[03:04.94] 光が暗闇を照らしていく
+[03:09.50] もう恐れるものはない
+```
